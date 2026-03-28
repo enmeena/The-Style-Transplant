@@ -1,0 +1,8 @@
+{
+  "prompt": "A detailed illustration in the style of late-19th century scientific instrument engravings. In the foreground stands a vintage brass camera on a wooden tripod aimed at a distant palace. The circular camera lens reveals the scene of the palace divided into three visual focus zones within the glass. The left portion of the image appears soft and blurry (first column), the right portion appears overly sharp  with exaggerated detail(third column), and the center full lens portion is perfectly balanced and clearly focused (center column).",
+  "model": "Flux Pro 2",
+  "concept": "Bias-Variance Tradeoff",
+  "tradition_name": "Scientific Instrument Engraving",
+  "tradition_period": "late 19th century",
+  "tradition_approach": "Cross-hatched monochrome engraving, precise mechanical detailing of optical instruments, antique parchment background, and symmetrical scientific plate composition typical of Victorian-era scientific illustrations."
+}
